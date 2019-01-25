@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:base-10.5.0
+FROM mhart/alpine-node
 
 USER root
 
