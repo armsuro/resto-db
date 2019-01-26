@@ -14,15 +14,15 @@ module.exports = {
             },
             'phone': {
                 'type': Sequelize.STRING,
-                'allowNull': false
+                'allowNull': true
             },
             'address': {
                 'type': Sequelize.STRING,
-                'allowNull': false
+                'allowNull': true
             },
             'country': {
                 'type': Sequelize.STRING,
-                'allowNull': false
+                'allowNull': true
             },
             'is_demo': {
                 'type': Sequelize.BOOLEAN,

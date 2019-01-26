@@ -8,21 +8,21 @@ const Schema = {
     },
     'phone': {
         'type': DataTypes.STRING,
-        'allowNull': false
+        'allowNull': true
     },
     'address': {
         'type': DataTypes.STRING,
-        'allowNull': false
+        'allowNull': true
     },
     'country': {
         'type': DataTypes.STRING,
-        'allowNull': false
+        'allowNull': true
     },
     'is_demo': {
         'type': DataTypes.BOOLEAN,
         'allowNull': false
     },
-    'demo_finished_date': {
+    'plan_finished_date': {
         'type': DataTypes.DATE,
         'allowNull': false
     },
