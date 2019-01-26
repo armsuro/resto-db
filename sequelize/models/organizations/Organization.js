@@ -18,14 +18,6 @@ const Schema = {
         'type': DataTypes.STRING,
         'allowNull': true
     },
-    'is_demo': {
-        'type': DataTypes.BOOLEAN,
-        'allowNull': false
-    },
-    'plan_finished_date': {
-        'type': DataTypes.DATE,
-        'allowNull': false
-    },
     'pricing_id': {
         'type': DataTypes.INTEGER,
         'allowNull': false
@@ -33,7 +25,7 @@ const Schema = {
 };
 
 const Options = {
-    'tableName': 'Organizations',
+    'tableName': 'organizations',
     'timestamps': true,
     'createdAt': 'created_at',
     'updatedAt': 'updated_at'

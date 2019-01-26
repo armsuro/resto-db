@@ -38,6 +38,14 @@ module.exports = {
                 'type': Sequelize.DATE,
                 'defaultValue': Sequelize.literal('CURRENT_TIMESTAMP')
             }
+        }).then(()=> {
+            return queryInterface.bulkInsert('pricing_plans', [{
+                "title": JSON.stringify({"eng": "test"}),
+                "description": JSON.stringify({"eng": "test"}),
+                "mountly_price": 10,
+                "yearly_price": 100,
+                "permissions": JSON.stringify({"eng": "test"})
+            }]);
         })
     },
     down: (queryInterface, Sequelize) => {

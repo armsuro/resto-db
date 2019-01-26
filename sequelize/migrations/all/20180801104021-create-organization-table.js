@@ -24,14 +24,6 @@ module.exports = {
                 'type': Sequelize.STRING,
                 'allowNull': true
             },
-            'is_demo': {
-                'type': Sequelize.BOOLEAN,
-                'defaultValue': false
-            },
-            'demo_finished_date': {
-                'type': Sequelize.DATE,
-                'allowNull': true
-            },
             'pricing_id': {
                 'type': Sequelize.INTEGER,
                 'allowNull': true,

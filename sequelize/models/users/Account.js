@@ -5,6 +5,7 @@ const Schema = {
     'email': {
         'type': DataTypes.STRING,
         'email': true,
+        'unique': true,
         'allowNull': false
     },
     'password': {

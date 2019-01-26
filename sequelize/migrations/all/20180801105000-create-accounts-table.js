@@ -12,6 +12,7 @@ module.exports = {
             },
             'email': {
                 'type': Sequelize.STRING,
+                'unique': true,
                 'allowNull': false
             },
             'password': {
@@ -35,7 +36,7 @@ module.exports = {
                 'allowNull': false,
                 'references': {
                     'model': {
-                        'tableName': 'roles'
+                        'tableName': 'organizations'
                     },
                     'key': 'id'
                 },
