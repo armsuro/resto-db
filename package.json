@@ -9,7 +9,7 @@
     "seed": "./node_modules/sequelize-cli/bin/sequelize db:seed:all",
     "unseed": "./node_modules/sequelize-cli/bin/sequelize db:seed:undo:all",
     "build": "npm run migrate && npm run seed",
-    "clean": "npm run unmigrate && npm run mi",
+    "clean": "npm run unmigrate && npm run migrate",
     "test": "node_modules/.bin/mocha test/*.js"
   },
   "keywords": [
