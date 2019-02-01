@@ -1,0 +1,2401 @@
+[{
+    "code": "004",
+    "name": "Afghanistan",
+    "iso_code": "AF",
+    "iso3_code": "AFG",
+    "iso_3166_2": "ISO 3166-2:AF",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Southern Asia",
+    "sub_region_code": "034"
+}, {
+    "code": "248",
+    "name": "\u00c5land Islands",
+    "iso_code": "AX",
+    "iso3_code": "ALA",
+    "iso_3166_2": "ISO 3166-2:AX",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Northern Europe",
+    "sub_region_code": "154"
+}, {
+    "code": "008",
+    "name": "Albania",
+    "iso_code": "AL",
+    "iso3_code": "ALB",
+    "iso_3166_2": "ISO 3166-2:AL",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Southern Europe",
+    "sub_region_code": "039"
+}, {
+    "code": "012",
+    "name": "Algeria",
+    "iso_code": "DZ",
+    "iso3_code": "DZA",
+    "iso_3166_2": "ISO 3166-2:DZ",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Northern Africa",
+    "sub_region_code": "015"
+}, {
+    "code": "016",
+    "name": "American Samoa",
+    "iso_code": "AS",
+    "iso3_code": "ASM",
+    "iso_3166_2": "ISO 3166-2:AS",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Polynesia",
+    "sub_region_code": "061"
+}, {
+    "code": "020",
+    "name": "Andorra",
+    "iso_code": "AD",
+    "iso3_code": "AND",
+    "iso_3166_2": "ISO 3166-2:AD",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Southern Europe",
+    "sub_region_code": "039"
+}, {
+    "code": "024",
+    "name": "Angola",
+    "iso_code": "AO",
+    "iso3_code": "AGO",
+    "iso_3166_2": "ISO 3166-2:AO",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Middle Africa",
+    "sub_region_code": "017"
+}, {
+    "code": "660",
+    "name": "Anguilla",
+    "iso_code": "AI",
+    "iso3_code": "AIA",
+    "iso_3166_2": "ISO 3166-2:AI",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "028",
+    "name": "Antigua and Barbuda",
+    "iso_code": "AG",
+    "iso3_code": "ATG",
+    "iso_3166_2": "ISO 3166-2:AG",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "032",
+    "name": "Argentina",
+    "iso_code": "AR",
+    "iso3_code": "ARG",
+    "iso_3166_2": "ISO 3166-2:AR",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "South America",
+    "sub_region_code": "005"
+}, {
+    "code": "051",
+    "name": "Armenia",
+    "iso_code": "AM",
+    "iso3_code": "ARM",
+    "iso_3166_2": "ISO 3166-2:AM",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Western Asia",
+    "sub_region_code": "145"
+}, {
+    "code": "533",
+    "name": "Aruba",
+    "iso_code": "AW",
+    "iso3_code": "ABW",
+    "iso_3166_2": "ISO 3166-2:AW",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "036",
+    "name": "Australia",
+    "iso_code": "AU",
+    "iso3_code": "AUS",
+    "iso_3166_2": "ISO 3166-2:AU",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Australia and New Zealand",
+    "sub_region_code": "053"
+}, {
+    "code": "040",
+    "name": "Austria",
+    "iso_code": "AT",
+    "iso3_code": "AUT",
+    "iso_3166_2": "ISO 3166-2:AT",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Western Europe",
+    "sub_region_code": "155"
+}, {
+    "code": "031",
+    "name": "Azerbaijan",
+    "iso_code": "AZ",
+    "iso3_code": "AZE",
+    "iso_3166_2": "ISO 3166-2:AZ",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Western Asia",
+    "sub_region_code": "145"
+}, {
+    "code": "044",
+    "name": "Bahamas",
+    "iso_code": "BS",
+    "iso3_code": "BHS",
+    "iso_3166_2": "ISO 3166-2:BS",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "048",
+    "name": "Bahrain",
+    "iso_code": "BH",
+    "iso3_code": "BHR",
+    "iso_3166_2": "ISO 3166-2:BH",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Western Asia",
+    "sub_region_code": "145"
+}, {
+    "code": "050",
+    "name": "Bangladesh",
+    "iso_code": "BD",
+    "iso3_code": "BGD",
+    "iso_3166_2": "ISO 3166-2:BD",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Southern Asia",
+    "sub_region_code": "034"
+}, {
+    "code": "052",
+    "name": "Barbados",
+    "iso_code": "BB",
+    "iso3_code": "BRB",
+    "iso_3166_2": "ISO 3166-2:BB",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "112",
+    "name": "Belarus",
+    "iso_code": "BY",
+    "iso3_code": "BLR",
+    "iso_3166_2": "ISO 3166-2:BY",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Eastern Europe",
+    "sub_region_code": "151"
+}, {
+    "code": "056",
+    "name": "Belgium",
+    "iso_code": "BE",
+    "iso3_code": "BEL",
+    "iso_3166_2": "ISO 3166-2:BE",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Western Europe",
+    "sub_region_code": "155"
+}, {
+    "code": "084",
+    "name": "Belize",
+    "iso_code": "BZ",
+    "iso3_code": "BLZ",
+    "iso_3166_2": "ISO 3166-2:BZ",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Central America",
+    "sub_region_code": "013"
+}, {
+    "code": "204",
+    "name": "Benin",
+    "iso_code": "BJ",
+    "iso3_code": "BEN",
+    "iso_3166_2": "ISO 3166-2:BJ",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Western Africa",
+    "sub_region_code": "011"
+}, {
+    "code": "060",
+    "name": "Bermuda",
+    "iso_code": "BM",
+    "iso3_code": "BMU",
+    "iso_3166_2": "ISO 3166-2:BM",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Northern America",
+    "sub_region_code": "021"
+}, {
+    "code": "064",
+    "name": "Bhutan",
+    "iso_code": "BT",
+    "iso3_code": "BTN",
+    "iso_3166_2": "ISO 3166-2:BT",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Southern Asia",
+    "sub_region_code": "034"
+}, {
+    "code": "068",
+    "name": "Bolivia (Plurinational State of)",
+    "iso_code": "BO",
+    "iso3_code": "BOL",
+    "iso_3166_2": "ISO 3166-2:BO",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "South America",
+    "sub_region_code": "005"
+}, {
+    "code": "535",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "iso_code": "BQ",
+    "iso3_code": "BES",
+    "iso_3166_2": "ISO 3166-2:BQ",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "070",
+    "name": "Bosnia and Herzegovina",
+    "iso_code": "BA",
+    "iso3_code": "BIH",
+    "iso_3166_2": "ISO 3166-2:BA",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Southern Europe",
+    "sub_region_code": "039"
+}, {
+    "code": "072",
+    "name": "Botswana",
+    "iso_code": "BW",
+    "iso3_code": "BWA",
+    "iso_3166_2": "ISO 3166-2:BW",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Southern Africa",
+    "sub_region_code": "018"
+}, {
+    "code": "076",
+    "name": "Brazil",
+    "iso_code": "BR",
+    "iso3_code": "BRA",
+    "iso_3166_2": "ISO 3166-2:BR",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "South America",
+    "sub_region_code": "005"
+}, {
+    "code": "096",
+    "name": "Brunei Darussalam",
+    "iso_code": "BN",
+    "iso3_code": "BRN",
+    "iso_3166_2": "ISO 3166-2:BN",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "South-Eastern Asia",
+    "sub_region_code": "035"
+}, {
+    "code": "100",
+    "name": "Bulgaria",
+    "iso_code": "BG",
+    "iso3_code": "BGR",
+    "iso_3166_2": "ISO 3166-2:BG",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Eastern Europe",
+    "sub_region_code": "151"
+}, {
+    "code": "854",
+    "name": "Burkina Faso",
+    "iso_code": "BF",
+    "iso3_code": "BFA",
+    "iso_3166_2": "ISO 3166-2:BF",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Western Africa",
+    "sub_region_code": "011"
+}, {
+    "code": "108",
+    "name": "Burundi",
+    "iso_code": "BI",
+    "iso3_code": "BDI",
+    "iso_3166_2": "ISO 3166-2:BI",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Eastern Africa",
+    "sub_region_code": "014"
+}, {
+    "code": "116",
+    "name": "Cambodia",
+    "iso_code": "KH",
+    "iso3_code": "KHM",
+    "iso_3166_2": "ISO 3166-2:KH",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "South-Eastern Asia",
+    "sub_region_code": "035"
+}, {
+    "code": "120",
+    "name": "Cameroon",
+    "iso_code": "CM",
+    "iso3_code": "CMR",
+    "iso_3166_2": "ISO 3166-2:CM",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Middle Africa",
+    "sub_region_code": "017"
+}, {
+    "code": "124",
+    "name": "Canada",
+    "iso_code": "CA",
+    "iso3_code": "CAN",
+    "iso_3166_2": "ISO 3166-2:CA",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Northern America",
+    "sub_region_code": "021"
+}, {
+    "code": "132",
+    "name": "Cabo Verde",
+    "iso_code": "CV",
+    "iso3_code": "CPV",
+    "iso_3166_2": "ISO 3166-2:CV",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Western Africa",
+    "sub_region_code": "011"
+}, {
+    "code": "136",
+    "name": "Cayman Islands",
+    "iso_code": "KY",
+    "iso3_code": "CYM",
+    "iso_3166_2": "ISO 3166-2:KY",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "140",
+    "name": "Central African Republic",
+    "iso_code": "CF",
+    "iso3_code": "CAF",
+    "iso_3166_2": "ISO 3166-2:CF",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Middle Africa",
+    "sub_region_code": "017"
+}, {
+    "code": "148",
+    "name": "Chad",
+    "iso_code": "TD",
+    "iso3_code": "TCD",
+    "iso_3166_2": "ISO 3166-2:TD",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Middle Africa",
+    "sub_region_code": "017"
+}, {
+    "code": "152",
+    "name": "Chile",
+    "iso_code": "CL",
+    "iso3_code": "CHL",
+    "iso_3166_2": "ISO 3166-2:CL",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "South America",
+    "sub_region_code": "005"
+}, {
+    "code": "156",
+    "name": "China",
+    "iso_code": "CN",
+    "iso3_code": "CHN",
+    "iso_3166_2": "ISO 3166-2:CN",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Eastern Asia",
+    "sub_region_code": "030"
+}, {
+    "code": "170",
+    "name": "Colombia",
+    "iso_code": "CO",
+    "iso3_code": "COL",
+    "iso_3166_2": "ISO 3166-2:CO",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "South America",
+    "sub_region_code": "005"
+}, {
+    "code": "174",
+    "name": "Comoros",
+    "iso_code": "KM",
+    "iso3_code": "COM",
+    "iso_3166_2": "ISO 3166-2:KM",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Eastern Africa",
+    "sub_region_code": "014"
+}, {
+    "code": "178",
+    "name": "Congo",
+    "iso_code": "CG",
+    "iso3_code": "COG",
+    "iso_3166_2": "ISO 3166-2:CG",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Middle Africa",
+    "sub_region_code": "017"
+}, {
+    "code": "180",
+    "name": "Congo (Democratic Republic of the)",
+    "iso_code": "CD",
+    "iso3_code": "COD",
+    "iso_3166_2": "ISO 3166-2:CD",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Middle Africa",
+    "sub_region_code": "017"
+}, {
+    "code": "184",
+    "name": "Cook Islands",
+    "iso_code": "CK",
+    "iso3_code": "COK",
+    "iso_3166_2": "ISO 3166-2:CK",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Polynesia",
+    "sub_region_code": "061"
+}, {
+    "code": "188",
+    "name": "Costa Rica",
+    "iso_code": "CR",
+    "iso3_code": "CRI",
+    "iso_3166_2": "ISO 3166-2:CR",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Central America",
+    "sub_region_code": "013"
+}, {
+    "code": "384",
+    "name": "C\u00f4te d'Ivoire",
+    "iso_code": "CI",
+    "iso3_code": "CIV",
+    "iso_3166_2": "ISO 3166-2:CI",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Western Africa",
+    "sub_region_code": "011"
+}, {
+    "code": "191",
+    "name": "Croatia",
+    "iso_code": "HR",
+    "iso3_code": "HRV",
+    "iso_3166_2": "ISO 3166-2:HR",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Southern Europe",
+    "sub_region_code": "039"
+}, {
+    "code": "192",
+    "name": "Cuba",
+    "iso_code": "CU",
+    "iso3_code": "CUB",
+    "iso_3166_2": "ISO 3166-2:CU",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "531",
+    "name": "Cura\u00e7ao",
+    "iso_code": "CW",
+    "iso3_code": "CUW",
+    "iso_3166_2": "ISO 3166-2:CW",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "196",
+    "name": "Cyprus",
+    "iso_code": "CY",
+    "iso3_code": "CYP",
+    "iso_3166_2": "ISO 3166-2:CY",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Western Asia",
+    "sub_region_code": "145"
+}, {
+    "code": "203",
+    "name": "Czech Republic",
+    "iso_code": "CZ",
+    "iso3_code": "CZE",
+    "iso_3166_2": "ISO 3166-2:CZ",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Eastern Europe",
+    "sub_region_code": "151"
+}, {
+    "code": "208",
+    "name": "Denmark",
+    "iso_code": "DK",
+    "iso3_code": "DNK",
+    "iso_3166_2": "ISO 3166-2:DK",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Northern Europe",
+    "sub_region_code": "154"
+}, {
+    "code": "262",
+    "name": "Djibouti",
+    "iso_code": "DJ",
+    "iso3_code": "DJI",
+    "iso_3166_2": "ISO 3166-2:DJ",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Eastern Africa",
+    "sub_region_code": "014"
+}, {
+    "code": "212",
+    "name": "Dominica",
+    "iso_code": "DM",
+    "iso3_code": "DMA",
+    "iso_3166_2": "ISO 3166-2:DM",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "214",
+    "name": "Dominican Republic",
+    "iso_code": "DO",
+    "iso3_code": "DOM",
+    "iso_3166_2": "ISO 3166-2:DO",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "218",
+    "name": "Ecuador",
+    "iso_code": "EC",
+    "iso3_code": "ECU",
+    "iso_3166_2": "ISO 3166-2:EC",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "South America",
+    "sub_region_code": "005"
+}, {
+    "code": "818",
+    "name": "Egypt",
+    "iso_code": "EG",
+    "iso3_code": "EGY",
+    "iso_3166_2": "ISO 3166-2:EG",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Northern Africa",
+    "sub_region_code": "015"
+}, {
+    "code": "222",
+    "name": "El Salvador",
+    "iso_code": "SV",
+    "iso3_code": "SLV",
+    "iso_3166_2": "ISO 3166-2:SV",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Central America",
+    "sub_region_code": "013"
+}, {
+    "code": "226",
+    "name": "Equatorial Guinea",
+    "iso_code": "GQ",
+    "iso3_code": "GNQ",
+    "iso_3166_2": "ISO 3166-2:GQ",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Middle Africa",
+    "sub_region_code": "017"
+}, {
+    "code": "232",
+    "name": "Eritrea",
+    "iso_code": "ER",
+    "iso3_code": "ERI",
+    "iso_3166_2": "ISO 3166-2:ER",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Eastern Africa",
+    "sub_region_code": "014"
+}, {
+    "code": "233",
+    "name": "Estonia",
+    "iso_code": "EE",
+    "iso3_code": "EST",
+    "iso_3166_2": "ISO 3166-2:EE",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Northern Europe",
+    "sub_region_code": "154"
+}, {
+    "code": "231",
+    "name": "Ethiopia",
+    "iso_code": "ET",
+    "iso3_code": "ETH",
+    "iso_3166_2": "ISO 3166-2:ET",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Eastern Africa",
+    "sub_region_code": "014"
+}, {
+    "code": "238",
+    "name": "Falkland Islands (Malvinas)",
+    "iso_code": "FK",
+    "iso3_code": "FLK",
+    "iso_3166_2": "ISO 3166-2:FK",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "South America",
+    "sub_region_code": "005"
+}, {
+    "code": "234",
+    "name": "Faroe Islands",
+    "iso_code": "FO",
+    "iso3_code": "FRO",
+    "iso_3166_2": "ISO 3166-2:FO",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Northern Europe",
+    "sub_region_code": "154"
+}, {
+    "code": "242",
+    "name": "Fiji",
+    "iso_code": "FJ",
+    "iso3_code": "FJI",
+    "iso_3166_2": "ISO 3166-2:FJ",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Melanesia",
+    "sub_region_code": "054"
+}, {
+    "code": "246",
+    "name": "Finland",
+    "iso_code": "FI",
+    "iso3_code": "FIN",
+    "iso_3166_2": "ISO 3166-2:FI",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Northern Europe",
+    "sub_region_code": "154"
+}, {
+    "code": "250",
+    "name": "France",
+    "iso_code": "FR",
+    "iso3_code": "FRA",
+    "iso_3166_2": "ISO 3166-2:FR",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Western Europe",
+    "sub_region_code": "155"
+}, {
+    "code": "254",
+    "name": "French Guiana",
+    "iso_code": "GF",
+    "iso3_code": "GUF",
+    "iso_3166_2": "ISO 3166-2:GF",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "South America",
+    "sub_region_code": "005"
+}, {
+    "code": "258",
+    "name": "French Polynesia",
+    "iso_code": "PF",
+    "iso3_code": "PYF",
+    "iso_3166_2": "ISO 3166-2:PF",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Polynesia",
+    "sub_region_code": "061"
+}, {
+    "code": "266",
+    "name": "Gabon",
+    "iso_code": "GA",
+    "iso3_code": "GAB",
+    "iso_3166_2": "ISO 3166-2:GA",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Middle Africa",
+    "sub_region_code": "017"
+}, {
+    "code": "270",
+    "name": "Gambia",
+    "iso_code": "GM",
+    "iso3_code": "GMB",
+    "iso_3166_2": "ISO 3166-2:GM",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Western Africa",
+    "sub_region_code": "011"
+}, {
+    "code": "268",
+    "name": "Georgia",
+    "iso_code": "GE",
+    "iso3_code": "GEO",
+    "iso_3166_2": "ISO 3166-2:GE",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Western Asia",
+    "sub_region_code": "145"
+}, {
+    "code": "276",
+    "name": "Germany",
+    "iso_code": "DE",
+    "iso3_code": "DEU",
+    "iso_3166_2": "ISO 3166-2:DE",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Western Europe",
+    "sub_region_code": "155"
+}, {
+    "code": "288",
+    "name": "Ghana",
+    "iso_code": "GH",
+    "iso3_code": "GHA",
+    "iso_3166_2": "ISO 3166-2:GH",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Western Africa",
+    "sub_region_code": "011"
+}, {
+    "code": "292",
+    "name": "Gibraltar",
+    "iso_code": "GI",
+    "iso3_code": "GIB",
+    "iso_3166_2": "ISO 3166-2:GI",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Southern Europe",
+    "sub_region_code": "039"
+}, {
+    "code": "300",
+    "name": "Greece",
+    "iso_code": "GR",
+    "iso3_code": "GRC",
+    "iso_3166_2": "ISO 3166-2:GR",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Southern Europe",
+    "sub_region_code": "039"
+}, {
+    "code": "304",
+    "name": "Greenland",
+    "iso_code": "GL",
+    "iso3_code": "GRL",
+    "iso_3166_2": "ISO 3166-2:GL",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Northern America",
+    "sub_region_code": "021"
+}, {
+    "code": "308",
+    "name": "Grenada",
+    "iso_code": "GD",
+    "iso3_code": "GRD",
+    "iso_3166_2": "ISO 3166-2:GD",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "312",
+    "name": "Guadeloupe",
+    "iso_code": "GP",
+    "iso3_code": "GLP",
+    "iso_3166_2": "ISO 3166-2:GP",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "316",
+    "name": "Guam",
+    "iso_code": "GU",
+    "iso3_code": "GUM",
+    "iso_3166_2": "ISO 3166-2:GU",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Micronesia",
+    "sub_region_code": "057"
+}, {
+    "code": "320",
+    "name": "Guatemala",
+    "iso_code": "GT",
+    "iso3_code": "GTM",
+    "iso_3166_2": "ISO 3166-2:GT",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Central America",
+    "sub_region_code": "013"
+}, {
+    "code": "831",
+    "name": "Guernsey",
+    "iso_code": "GG",
+    "iso3_code": "GGY",
+    "iso_3166_2": "ISO 3166-2:GG",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Northern Europe",
+    "sub_region_code": "154"
+}, {
+    "code": "324",
+    "name": "Guinea",
+    "iso_code": "GN",
+    "iso3_code": "GIN",
+    "iso_3166_2": "ISO 3166-2:GN",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Western Africa",
+    "sub_region_code": "011"
+}, {
+    "code": "624",
+    "name": "Guinea-Bissau",
+    "iso_code": "GW",
+    "iso3_code": "GNB",
+    "iso_3166_2": "ISO 3166-2:GW",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Western Africa",
+    "sub_region_code": "011"
+}, {
+    "code": "328",
+    "name": "Guyana",
+    "iso_code": "GY",
+    "iso3_code": "GUY",
+    "iso_3166_2": "ISO 3166-2:GY",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "South America",
+    "sub_region_code": "005"
+}, {
+    "code": "332",
+    "name": "Haiti",
+    "iso_code": "HT",
+    "iso3_code": "HTI",
+    "iso_3166_2": "ISO 3166-2:HT",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "336",
+    "name": "Holy See",
+    "iso_code": "VA",
+    "iso3_code": "VAT",
+    "iso_3166_2": "ISO 3166-2:VA",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Southern Europe",
+    "sub_region_code": "039"
+}, {
+    "code": "340",
+    "name": "Honduras",
+    "iso_code": "HN",
+    "iso3_code": "HND",
+    "iso_3166_2": "ISO 3166-2:HN",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Central America",
+    "sub_region_code": "013"
+}, {
+    "code": "344",
+    "name": "Hong Kong",
+    "iso_code": "HK",
+    "iso3_code": "HKG",
+    "iso_3166_2": "ISO 3166-2:HK",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Eastern Asia",
+    "sub_region_code": "030"
+}, {
+    "code": "348",
+    "name": "Hungary",
+    "iso_code": "HU",
+    "iso3_code": "HUN",
+    "iso_3166_2": "ISO 3166-2:HU",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Eastern Europe",
+    "sub_region_code": "151"
+}, {
+    "code": "352",
+    "name": "Iceland",
+    "iso_code": "IS",
+    "iso3_code": "ISL",
+    "iso_3166_2": "ISO 3166-2:IS",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Northern Europe",
+    "sub_region_code": "154"
+}, {
+    "code": "356",
+    "name": "India",
+    "iso_code": "IN",
+    "iso3_code": "IND",
+    "iso_3166_2": "ISO 3166-2:IN",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Southern Asia",
+    "sub_region_code": "034"
+}, {
+    "code": "360",
+    "name": "Indonesia",
+    "iso_code": "ID",
+    "iso3_code": "IDN",
+    "iso_3166_2": "ISO 3166-2:ID",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "South-Eastern Asia",
+    "sub_region_code": "035"
+}, {
+    "code": "364",
+    "name": "Iran (Islamic Republic of)",
+    "iso_code": "IR",
+    "iso3_code": "IRN",
+    "iso_3166_2": "ISO 3166-2:IR",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Southern Asia",
+    "sub_region_code": "034"
+}, {
+    "code": "368",
+    "name": "Iraq",
+    "iso_code": "IQ",
+    "iso3_code": "IRQ",
+    "iso_3166_2": "ISO 3166-2:IQ",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Western Asia",
+    "sub_region_code": "145"
+}, {
+    "code": "372",
+    "name": "Ireland",
+    "iso_code": "IE",
+    "iso3_code": "IRL",
+    "iso_3166_2": "ISO 3166-2:IE",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Northern Europe",
+    "sub_region_code": "154"
+}, {
+    "code": "833",
+    "name": "Isle of Man",
+    "iso_code": "IM",
+    "iso3_code": "IMN",
+    "iso_3166_2": "ISO 3166-2:IM",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Northern Europe",
+    "sub_region_code": "154"
+}, {
+    "code": "376",
+    "name": "Israel",
+    "iso_code": "IL",
+    "iso3_code": "ISR",
+    "iso_3166_2": "ISO 3166-2:IL",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Western Asia",
+    "sub_region_code": "145"
+}, {
+    "code": "380",
+    "name": "Italy",
+    "iso_code": "IT",
+    "iso3_code": "ITA",
+    "iso_3166_2": "ISO 3166-2:IT",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Southern Europe",
+    "sub_region_code": "039"
+}, {
+    "code": "388",
+    "name": "Jamaica",
+    "iso_code": "JM",
+    "iso3_code": "JAM",
+    "iso_3166_2": "ISO 3166-2:JM",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "392",
+    "name": "Japan",
+    "iso_code": "JP",
+    "iso3_code": "JPN",
+    "iso_3166_2": "ISO 3166-2:JP",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Eastern Asia",
+    "sub_region_code": "030"
+}, {
+    "code": "832",
+    "name": "Jersey",
+    "iso_code": "JE",
+    "iso3_code": "JEY",
+    "iso_3166_2": "ISO 3166-2:JE",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Northern Europe",
+    "sub_region_code": "154"
+}, {
+    "code": "400",
+    "name": "Jordan",
+    "iso_code": "JO",
+    "iso3_code": "JOR",
+    "iso_3166_2": "ISO 3166-2:JO",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Western Asia",
+    "sub_region_code": "145"
+}, {
+    "code": "398",
+    "name": "Kazakhstan",
+    "iso_code": "KZ",
+    "iso3_code": "KAZ",
+    "iso_3166_2": "ISO 3166-2:KZ",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Central Asia",
+    "sub_region_code": "143"
+}, {
+    "code": "404",
+    "name": "Kenya",
+    "iso_code": "KE",
+    "iso3_code": "KEN",
+    "iso_3166_2": "ISO 3166-2:KE",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Eastern Africa",
+    "sub_region_code": "014"
+}, {
+    "code": "296",
+    "name": "Kiribati",
+    "iso_code": "KI",
+    "iso3_code": "KIR",
+    "iso_3166_2": "ISO 3166-2:KI",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Micronesia",
+    "sub_region_code": "057"
+}, {
+    "code": "408",
+    "name": "Korea (Democratic People's Republic of)",
+    "iso_code": "KP",
+    "iso3_code": "PRK",
+    "iso_3166_2": "ISO 3166-2:KP",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Eastern Asia",
+    "sub_region_code": "030"
+}, {
+    "code": "410",
+    "name": "Korea (Republic of)",
+    "iso_code": "KR",
+    "iso3_code": "KOR",
+    "iso_3166_2": "ISO 3166-2:KR",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Eastern Asia",
+    "sub_region_code": "030"
+}, {
+    "code": "414",
+    "name": "Kuwait",
+    "iso_code": "KW",
+    "iso3_code": "KWT",
+    "iso_3166_2": "ISO 3166-2:KW",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Western Asia",
+    "sub_region_code": "145"
+}, {
+    "code": "417",
+    "name": "Kyrgyzstan",
+    "iso_code": "KG",
+    "iso3_code": "KGZ",
+    "iso_3166_2": "ISO 3166-2:KG",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Central Asia",
+    "sub_region_code": "143"
+}, {
+    "code": "418",
+    "name": "Lao People's Democratic Republic",
+    "iso_code": "LA",
+    "iso3_code": "LAO",
+    "iso_3166_2": "ISO 3166-2:LA",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "South-Eastern Asia",
+    "sub_region_code": "035"
+}, {
+    "code": "428",
+    "name": "Latvia",
+    "iso_code": "LV",
+    "iso3_code": "LVA",
+    "iso_3166_2": "ISO 3166-2:LV",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Northern Europe",
+    "sub_region_code": "154"
+}, {
+    "code": "422",
+    "name": "Lebanon",
+    "iso_code": "LB",
+    "iso3_code": "LBN",
+    "iso_3166_2": "ISO 3166-2:LB",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Western Asia",
+    "sub_region_code": "145"
+}, {
+    "code": "426",
+    "name": "Lesotho",
+    "iso_code": "LS",
+    "iso3_code": "LSO",
+    "iso_3166_2": "ISO 3166-2:LS",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Southern Africa",
+    "sub_region_code": "018"
+}, {
+    "code": "430",
+    "name": "Liberia",
+    "iso_code": "LR",
+    "iso3_code": "LBR",
+    "iso_3166_2": "ISO 3166-2:LR",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Western Africa",
+    "sub_region_code": "011"
+}, {
+    "code": "434",
+    "name": "Libya",
+    "iso_code": "LY",
+    "iso3_code": "LBY",
+    "iso_3166_2": "ISO 3166-2:LY",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Northern Africa",
+    "sub_region_code": "015"
+}, {
+    "code": "438",
+    "name": "Liechtenstein",
+    "iso_code": "LI",
+    "iso3_code": "LIE",
+    "iso_3166_2": "ISO 3166-2:LI",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Western Europe",
+    "sub_region_code": "155"
+}, {
+    "code": "440",
+    "name": "Lithuania",
+    "iso_code": "LT",
+    "iso3_code": "LTU",
+    "iso_3166_2": "ISO 3166-2:LT",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Northern Europe",
+    "sub_region_code": "154"
+}, {
+    "code": "442",
+    "name": "Luxembourg",
+    "iso_code": "LU",
+    "iso3_code": "LUX",
+    "iso_3166_2": "ISO 3166-2:LU",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Western Europe",
+    "sub_region_code": "155"
+}, {
+    "code": "446",
+    "name": "Macao",
+    "iso_code": "MO",
+    "iso3_code": "MAC",
+    "iso_3166_2": "ISO 3166-2:MO",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Eastern Asia",
+    "sub_region_code": "030"
+}, {
+    "code": "807",
+    "name": "Macedonia (the former Yugoslav Republic of)",
+    "iso_code": "MK",
+    "iso3_code": "MKD",
+    "iso_3166_2": "ISO 3166-2:MK",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Southern Europe",
+    "sub_region_code": "039"
+}, {
+    "code": "450",
+    "name": "Madagascar",
+    "iso_code": "MG",
+    "iso3_code": "MDG",
+    "iso_3166_2": "ISO 3166-2:MG",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Eastern Africa",
+    "sub_region_code": "014"
+}, {
+    "code": "454",
+    "name": "Malawi",
+    "iso_code": "MW",
+    "iso3_code": "MWI",
+    "iso_3166_2": "ISO 3166-2:MW",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Eastern Africa",
+    "sub_region_code": "014"
+}, {
+    "code": "458",
+    "name": "Malaysia",
+    "iso_code": "MY",
+    "iso3_code": "MYS",
+    "iso_3166_2": "ISO 3166-2:MY",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "South-Eastern Asia",
+    "sub_region_code": "035"
+}, {
+    "code": "462",
+    "name": "Maldives",
+    "iso_code": "MV",
+    "iso3_code": "MDV",
+    "iso_3166_2": "ISO 3166-2:MV",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Southern Asia",
+    "sub_region_code": "034"
+}, {
+    "code": "466",
+    "name": "Mali",
+    "iso_code": "ML",
+    "iso3_code": "MLI",
+    "iso_3166_2": "ISO 3166-2:ML",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Western Africa",
+    "sub_region_code": "011"
+}, {
+    "code": "470",
+    "name": "Malta",
+    "iso_code": "MT",
+    "iso3_code": "MLT",
+    "iso_3166_2": "ISO 3166-2:MT",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Southern Europe",
+    "sub_region_code": "039"
+}, {
+    "code": "584",
+    "name": "Marshall Islands",
+    "iso_code": "MH",
+    "iso3_code": "MHL",
+    "iso_3166_2": "ISO 3166-2:MH",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Micronesia",
+    "sub_region_code": "057"
+}, {
+    "code": "474",
+    "name": "Martinique",
+    "iso_code": "MQ",
+    "iso3_code": "MTQ",
+    "iso_3166_2": "ISO 3166-2:MQ",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "478",
+    "name": "Mauritania",
+    "iso_code": "MR",
+    "iso3_code": "MRT",
+    "iso_3166_2": "ISO 3166-2:MR",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Western Africa",
+    "sub_region_code": "011"
+}, {
+    "code": "480",
+    "name": "Mauritius",
+    "iso_code": "MU",
+    "iso3_code": "MUS",
+    "iso_3166_2": "ISO 3166-2:MU",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Eastern Africa",
+    "sub_region_code": "014"
+}, {
+    "code": "175",
+    "name": "Mayotte",
+    "iso_code": "YT",
+    "iso3_code": "MYT",
+    "iso_3166_2": "ISO 3166-2:YT",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Eastern Africa",
+    "sub_region_code": "014"
+}, {
+    "code": "484",
+    "name": "Mexico",
+    "iso_code": "MX",
+    "iso3_code": "MEX",
+    "iso_3166_2": "ISO 3166-2:MX",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Central America",
+    "sub_region_code": "013"
+}, {
+    "code": "583",
+    "name": "Micronesia (Federated States of)",
+    "iso_code": "FM",
+    "iso3_code": "FSM",
+    "iso_3166_2": "ISO 3166-2:FM",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Micronesia",
+    "sub_region_code": "057"
+}, {
+    "code": "498",
+    "name": "Moldova (Republic of)",
+    "iso_code": "MD",
+    "iso3_code": "MDA",
+    "iso_3166_2": "ISO 3166-2:MD",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Eastern Europe",
+    "sub_region_code": "151"
+}, {
+    "code": "492",
+    "name": "Monaco",
+    "iso_code": "MC",
+    "iso3_code": "MCO",
+    "iso_3166_2": "ISO 3166-2:MC",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Western Europe",
+    "sub_region_code": "155"
+}, {
+    "code": "496",
+    "name": "Mongolia",
+    "iso_code": "MN",
+    "iso3_code": "MNG",
+    "iso_3166_2": "ISO 3166-2:MN",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Eastern Asia",
+    "sub_region_code": "030"
+}, {
+    "code": "499",
+    "name": "Montenegro",
+    "iso_code": "ME",
+    "iso3_code": "MNE",
+    "iso_3166_2": "ISO 3166-2:ME",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Southern Europe",
+    "sub_region_code": "039"
+}, {
+    "code": "500",
+    "name": "Montserrat",
+    "iso_code": "MS",
+    "iso3_code": "MSR",
+    "iso_3166_2": "ISO 3166-2:MS",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "504",
+    "name": "Morocco",
+    "iso_code": "MA",
+    "iso3_code": "MAR",
+    "iso_3166_2": "ISO 3166-2:MA",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Northern Africa",
+    "sub_region_code": "015"
+}, {
+    "code": "508",
+    "name": "Mozambique",
+    "iso_code": "MZ",
+    "iso3_code": "MOZ",
+    "iso_3166_2": "ISO 3166-2:MZ",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Eastern Africa",
+    "sub_region_code": "014"
+}, {
+    "code": "104",
+    "name": "Myanmar",
+    "iso_code": "MM",
+    "iso3_code": "MMR",
+    "iso_3166_2": "ISO 3166-2:MM",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "South-Eastern Asia",
+    "sub_region_code": "035"
+}, {
+    "code": "516",
+    "name": "Namibia",
+    "iso_code": "NA",
+    "iso3_code": "NAM",
+    "iso_3166_2": "ISO 3166-2:NA",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Southern Africa",
+    "sub_region_code": "018"
+}, {
+    "code": "520",
+    "name": "Nauru",
+    "iso_code": "NR",
+    "iso3_code": "NRU",
+    "iso_3166_2": "ISO 3166-2:NR",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Micronesia",
+    "sub_region_code": "057"
+}, {
+    "code": "524",
+    "name": "Nepal",
+    "iso_code": "NP",
+    "iso3_code": "NPL",
+    "iso_3166_2": "ISO 3166-2:NP",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Southern Asia",
+    "sub_region_code": "034"
+}, {
+    "code": "528",
+    "name": "Netherlands",
+    "iso_code": "NL",
+    "iso3_code": "NLD",
+    "iso_3166_2": "ISO 3166-2:NL",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Western Europe",
+    "sub_region_code": "155"
+}, {
+    "code": "540",
+    "name": "New Caledonia",
+    "iso_code": "NC",
+    "iso3_code": "NCL",
+    "iso_3166_2": "ISO 3166-2:NC",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Melanesia",
+    "sub_region_code": "054"
+}, {
+    "code": "554",
+    "name": "New Zealand",
+    "iso_code": "NZ",
+    "iso3_code": "NZL",
+    "iso_3166_2": "ISO 3166-2:NZ",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Australia and New Zealand",
+    "sub_region_code": "053"
+}, {
+    "code": "558",
+    "name": "Nicaragua",
+    "iso_code": "NI",
+    "iso3_code": "NIC",
+    "iso_3166_2": "ISO 3166-2:NI",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Central America",
+    "sub_region_code": "013"
+}, {
+    "code": "562",
+    "name": "Niger",
+    "iso_code": "NE",
+    "iso3_code": "NER",
+    "iso_3166_2": "ISO 3166-2:NE",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Western Africa",
+    "sub_region_code": "011"
+}, {
+    "code": "566",
+    "name": "Nigeria",
+    "iso_code": "NG",
+    "iso3_code": "NGA",
+    "iso_3166_2": "ISO 3166-2:NG",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Western Africa",
+    "sub_region_code": "011"
+}, {
+    "code": "570",
+    "name": "Niue",
+    "iso_code": "NU",
+    "iso3_code": "NIU",
+    "iso_3166_2": "ISO 3166-2:NU",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Polynesia",
+    "sub_region_code": "061"
+}, {
+    "code": "574",
+    "name": "Norfolk Island",
+    "iso_code": "NF",
+    "iso3_code": "NFK",
+    "iso_3166_2": "ISO 3166-2:NF",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Australia and New Zealand",
+    "sub_region_code": "053"
+}, {
+    "code": "580",
+    "name": "Northern Mariana Islands",
+    "iso_code": "MP",
+    "iso3_code": "MNP",
+    "iso_3166_2": "ISO 3166-2:MP",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Micronesia",
+    "sub_region_code": "057"
+}, {
+    "code": "578",
+    "name": "Norway",
+    "iso_code": "NO",
+    "iso3_code": "NOR",
+    "iso_3166_2": "ISO 3166-2:NO",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Northern Europe",
+    "sub_region_code": "154"
+}, {
+    "code": "512",
+    "name": "Oman",
+    "iso_code": "OM",
+    "iso3_code": "OMN",
+    "iso_3166_2": "ISO 3166-2:OM",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Western Asia",
+    "sub_region_code": "145"
+}, {
+    "code": "586",
+    "name": "Pakistan",
+    "iso_code": "PK",
+    "iso3_code": "PAK",
+    "iso_3166_2": "ISO 3166-2:PK",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Southern Asia",
+    "sub_region_code": "034"
+}, {
+    "code": "585",
+    "name": "Palau",
+    "iso_code": "PW",
+    "iso3_code": "PLW",
+    "iso_3166_2": "ISO 3166-2:PW",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Micronesia",
+    "sub_region_code": "057"
+}, {
+    "code": "275",
+    "name": "Palestine, State of",
+    "iso_code": "PS",
+    "iso3_code": "PSE",
+    "iso_3166_2": "ISO 3166-2:PS",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Western Asia",
+    "sub_region_code": "145"
+}, {
+    "code": "591",
+    "name": "Panama",
+    "iso_code": "PA",
+    "iso3_code": "PAN",
+    "iso_3166_2": "ISO 3166-2:PA",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Central America",
+    "sub_region_code": "013"
+}, {
+    "code": "598",
+    "name": "Papua New Guinea",
+    "iso_code": "PG",
+    "iso3_code": "PNG",
+    "iso_3166_2": "ISO 3166-2:PG",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Melanesia",
+    "sub_region_code": "054"
+}, {
+    "code": "600",
+    "name": "Paraguay",
+    "iso_code": "PY",
+    "iso3_code": "PRY",
+    "iso_3166_2": "ISO 3166-2:PY",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "South America",
+    "sub_region_code": "005"
+}, {
+    "code": "604",
+    "name": "Peru",
+    "iso_code": "PE",
+    "iso3_code": "PER",
+    "iso_3166_2": "ISO 3166-2:PE",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "South America",
+    "sub_region_code": "005"
+}, {
+    "code": "608",
+    "name": "Philippines",
+    "iso_code": "PH",
+    "iso3_code": "PHL",
+    "iso_3166_2": "ISO 3166-2:PH",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "South-Eastern Asia",
+    "sub_region_code": "035"
+}, {
+    "code": "612",
+    "name": "Pitcairn",
+    "iso_code": "PN",
+    "iso3_code": "PCN",
+    "iso_3166_2": "ISO 3166-2:PN",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Polynesia",
+    "sub_region_code": "061"
+}, {
+    "code": "616",
+    "name": "Poland",
+    "iso_code": "PL",
+    "iso3_code": "POL",
+    "iso_3166_2": "ISO 3166-2:PL",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Eastern Europe",
+    "sub_region_code": "151"
+}, {
+    "code": "620",
+    "name": "Portugal",
+    "iso_code": "PT",
+    "iso3_code": "PRT",
+    "iso_3166_2": "ISO 3166-2:PT",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Southern Europe",
+    "sub_region_code": "039"
+}, {
+    "code": "630",
+    "name": "Puerto Rico",
+    "iso_code": "PR",
+    "iso3_code": "PRI",
+    "iso_3166_2": "ISO 3166-2:PR",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "634",
+    "name": "Qatar",
+    "iso_code": "QA",
+    "iso3_code": "QAT",
+    "iso_3166_2": "ISO 3166-2:QA",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Western Asia",
+    "sub_region_code": "145"
+}, {
+    "code": "638",
+    "name": "R\u00e9union",
+    "iso_code": "RE",
+    "iso3_code": "REU",
+    "iso_3166_2": "ISO 3166-2:RE",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Eastern Africa",
+    "sub_region_code": "014"
+}, {
+    "code": "642",
+    "name": "Romania",
+    "iso_code": "RO",
+    "iso3_code": "ROU",
+    "iso_3166_2": "ISO 3166-2:RO",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Eastern Europe",
+    "sub_region_code": "151"
+}, {
+    "code": "643",
+    "name": "Russian Federation",
+    "iso_code": "RU",
+    "iso3_code": "RUS",
+    "iso_3166_2": "ISO 3166-2:RU",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Eastern Europe",
+    "sub_region_code": "151"
+}, {
+    "code": "646",
+    "name": "Rwanda",
+    "iso_code": "RW",
+    "iso3_code": "RWA",
+    "iso_3166_2": "ISO 3166-2:RW",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Eastern Africa",
+    "sub_region_code": "014"
+}, {
+    "code": "652",
+    "name": "Saint Barth\u00e9lemy",
+    "iso_code": "BL",
+    "iso3_code": "BLM",
+    "iso_3166_2": "ISO 3166-2:BL",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "654",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "iso_code": "SH",
+    "iso3_code": "SHN",
+    "iso_3166_2": "ISO 3166-2:SH",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Western Africa",
+    "sub_region_code": "011"
+}, {
+    "code": "659",
+    "name": "Saint Kitts and Nevis",
+    "iso_code": "KN",
+    "iso3_code": "KNA",
+    "iso_3166_2": "ISO 3166-2:KN",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "662",
+    "name": "Saint Lucia",
+    "iso_code": "LC",
+    "iso3_code": "LCA",
+    "iso_3166_2": "ISO 3166-2:LC",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "663",
+    "name": "Saint Martin (French part)",
+    "iso_code": "MF",
+    "iso3_code": "MAF",
+    "iso_3166_2": "ISO 3166-2:MF",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "666",
+    "name": "Saint Pierre and Miquelon",
+    "iso_code": "PM",
+    "iso3_code": "SPM",
+    "iso_3166_2": "ISO 3166-2:PM",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Northern America",
+    "sub_region_code": "021"
+}, {
+    "code": "670",
+    "name": "Saint Vincent and the Grenadines",
+    "iso_code": "VC",
+    "iso3_code": "VCT",
+    "iso_3166_2": "ISO 3166-2:VC",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "882",
+    "name": "Samoa",
+    "iso_code": "WS",
+    "iso3_code": "WSM",
+    "iso_3166_2": "ISO 3166-2:WS",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Polynesia",
+    "sub_region_code": "061"
+}, {
+    "code": "674",
+    "name": "San Marino",
+    "iso_code": "SM",
+    "iso3_code": "SMR",
+    "iso_3166_2": "ISO 3166-2:SM",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Southern Europe",
+    "sub_region_code": "039"
+}, {
+    "code": "678",
+    "name": "Sao Tome and Principe",
+    "iso_code": "ST",
+    "iso3_code": "STP",
+    "iso_3166_2": "ISO 3166-2:ST",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Middle Africa",
+    "sub_region_code": "017"
+}, {
+    "code": "682",
+    "name": "Saudi Arabia",
+    "iso_code": "SA",
+    "iso3_code": "SAU",
+    "iso_3166_2": "ISO 3166-2:SA",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Western Asia",
+    "sub_region_code": "145"
+}, {
+    "code": "686",
+    "name": "Senegal",
+    "iso_code": "SN",
+    "iso3_code": "SEN",
+    "iso_3166_2": "ISO 3166-2:SN",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Western Africa",
+    "sub_region_code": "011"
+}, {
+    "code": "688",
+    "name": "Serbia",
+    "iso_code": "RS",
+    "iso3_code": "SRB",
+    "iso_3166_2": "ISO 3166-2:RS",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Southern Europe",
+    "sub_region_code": "039"
+}, {
+    "code": "690",
+    "name": "Seychelles",
+    "iso_code": "SC",
+    "iso3_code": "SYC",
+    "iso_3166_2": "ISO 3166-2:SC",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Eastern Africa",
+    "sub_region_code": "014"
+}, {
+    "code": "694",
+    "name": "Sierra Leone",
+    "iso_code": "SL",
+    "iso3_code": "SLE",
+    "iso_3166_2": "ISO 3166-2:SL",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Western Africa",
+    "sub_region_code": "011"
+}, {
+    "code": "702",
+    "name": "Singapore",
+    "iso_code": "SG",
+    "iso3_code": "SGP",
+    "iso_3166_2": "ISO 3166-2:SG",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "South-Eastern Asia",
+    "sub_region_code": "035"
+}, {
+    "code": "534",
+    "name": "Sint Maarten (Dutch part)",
+    "iso_code": "SX",
+    "iso3_code": "SXM",
+    "iso_3166_2": "ISO 3166-2:SX",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "703",
+    "name": "Slovakia",
+    "iso_code": "SK",
+    "iso3_code": "SVK",
+    "iso_3166_2": "ISO 3166-2:SK",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Eastern Europe",
+    "sub_region_code": "151"
+}, {
+    "code": "705",
+    "name": "Slovenia",
+    "iso_code": "SI",
+    "iso3_code": "SVN",
+    "iso_3166_2": "ISO 3166-2:SI",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Southern Europe",
+    "sub_region_code": "039"
+}, {
+    "code": "090",
+    "name": "Solomon Islands",
+    "iso_code": "SB",
+    "iso3_code": "SLB",
+    "iso_3166_2": "ISO 3166-2:SB",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Melanesia",
+    "sub_region_code": "054"
+}, {
+    "code": "706",
+    "name": "Somalia",
+    "iso_code": "SO",
+    "iso3_code": "SOM",
+    "iso_3166_2": "ISO 3166-2:SO",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Eastern Africa",
+    "sub_region_code": "014"
+}, {
+    "code": "710",
+    "name": "South Africa",
+    "iso_code": "ZA",
+    "iso3_code": "ZAF",
+    "iso_3166_2": "ISO 3166-2:ZA",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Southern Africa",
+    "sub_region_code": "018"
+}, {
+    "code": "728",
+    "name": "South Sudan",
+    "iso_code": "SS",
+    "iso3_code": "SSD",
+    "iso_3166_2": "ISO 3166-2:SS",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Eastern Africa",
+    "sub_region_code": "014"
+}, {
+    "code": "724",
+    "name": "Spain",
+    "iso_code": "ES",
+    "iso3_code": "ESP",
+    "iso_3166_2": "ISO 3166-2:ES",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Southern Europe",
+    "sub_region_code": "039"
+}, {
+    "code": "144",
+    "name": "Sri Lanka",
+    "iso_code": "LK",
+    "iso3_code": "LKA",
+    "iso_3166_2": "ISO 3166-2:LK",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Southern Asia",
+    "sub_region_code": "034"
+}, {
+    "code": "729",
+    "name": "Sudan",
+    "iso_code": "SD",
+    "iso3_code": "SDN",
+    "iso_3166_2": "ISO 3166-2:SD",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Northern Africa",
+    "sub_region_code": "015"
+}, {
+    "code": "740",
+    "name": "Suriname",
+    "iso_code": "SR",
+    "iso3_code": "SUR",
+    "iso_3166_2": "ISO 3166-2:SR",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "South America",
+    "sub_region_code": "005"
+}, {
+    "code": "744",
+    "name": "Svalbard and Jan Mayen",
+    "iso_code": "SJ",
+    "iso3_code": "SJM",
+    "iso_3166_2": "ISO 3166-2:SJ",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Northern Europe",
+    "sub_region_code": "154"
+}, {
+    "code": "748",
+    "name": "Swaziland",
+    "iso_code": "SZ",
+    "iso3_code": "SWZ",
+    "iso_3166_2": "ISO 3166-2:SZ",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Southern Africa",
+    "sub_region_code": "018"
+}, {
+    "code": "752",
+    "name": "Sweden",
+    "iso_code": "SE",
+    "iso3_code": "SWE",
+    "iso_3166_2": "ISO 3166-2:SE",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Northern Europe",
+    "sub_region_code": "154"
+}, {
+    "code": "756",
+    "name": "Switzerland",
+    "iso_code": "CH",
+    "iso3_code": "CHE",
+    "iso_3166_2": "ISO 3166-2:CH",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Western Europe",
+    "sub_region_code": "155"
+}, {
+    "code": "760",
+    "name": "Syrian Arab Republic",
+    "iso_code": "SY",
+    "iso3_code": "SYR",
+    "iso_3166_2": "ISO 3166-2:SY",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Western Asia",
+    "sub_region_code": "145"
+}, {
+    "code": "158",
+    "name": "Taiwan, Province of China",
+    "iso_code": "TW",
+    "iso3_code": "TWN",
+    "iso_3166_2": "ISO 3166-2:TW",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Eastern Asia",
+    "sub_region_code": "030"
+}, {
+    "code": "762",
+    "name": "Tajikistan",
+    "iso_code": "TJ",
+    "iso3_code": "TJK",
+    "iso_3166_2": "ISO 3166-2:TJ",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Central Asia",
+    "sub_region_code": "143"
+}, {
+    "code": "834",
+    "name": "Tanzania, United Republic of",
+    "iso_code": "TZ",
+    "iso3_code": "TZA",
+    "iso_3166_2": "ISO 3166-2:TZ",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Eastern Africa",
+    "sub_region_code": "014"
+}, {
+    "code": "764",
+    "name": "Thailand",
+    "iso_code": "TH",
+    "iso3_code": "THA",
+    "iso_3166_2": "ISO 3166-2:TH",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "South-Eastern Asia",
+    "sub_region_code": "035"
+}, {
+    "code": "626",
+    "name": "Timor-Leste",
+    "iso_code": "TL",
+    "iso3_code": "TLS",
+    "iso_3166_2": "ISO 3166-2:TL",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "South-Eastern Asia",
+    "sub_region_code": "035"
+}, {
+    "code": "768",
+    "name": "Togo",
+    "iso_code": "TG",
+    "iso3_code": "TGO",
+    "iso_3166_2": "ISO 3166-2:TG",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Western Africa",
+    "sub_region_code": "011"
+}, {
+    "code": "772",
+    "name": "Tokelau",
+    "iso_code": "TK",
+    "iso3_code": "TKL",
+    "iso_3166_2": "ISO 3166-2:TK",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Polynesia",
+    "sub_region_code": "061"
+}, {
+    "code": "776",
+    "name": "Tonga",
+    "iso_code": "TO",
+    "iso3_code": "TON",
+    "iso_3166_2": "ISO 3166-2:TO",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Polynesia",
+    "sub_region_code": "061"
+}, {
+    "code": "780",
+    "name": "Trinidad and Tobago",
+    "iso_code": "TT",
+    "iso3_code": "TTO",
+    "iso_3166_2": "ISO 3166-2:TT",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "788",
+    "name": "Tunisia",
+    "iso_code": "TN",
+    "iso3_code": "TUN",
+    "iso_3166_2": "ISO 3166-2:TN",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Northern Africa",
+    "sub_region_code": "015"
+}, {
+    "code": "792",
+    "name": "Turkey",
+    "iso_code": "TR",
+    "iso3_code": "TUR",
+    "iso_3166_2": "ISO 3166-2:TR",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Western Asia",
+    "sub_region_code": "145"
+}, {
+    "code": "795",
+    "name": "Turkmenistan",
+    "iso_code": "TM",
+    "iso3_code": "TKM",
+    "iso_3166_2": "ISO 3166-2:TM",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Central Asia",
+    "sub_region_code": "143"
+}, {
+    "code": "796",
+    "name": "Turks and Caicos Islands",
+    "iso_code": "TC",
+    "iso3_code": "TCA",
+    "iso_3166_2": "ISO 3166-2:TC",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "798",
+    "name": "Tuvalu",
+    "iso_code": "TV",
+    "iso3_code": "TUV",
+    "iso_3166_2": "ISO 3166-2:TV",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Polynesia",
+    "sub_region_code": "061"
+}, {
+    "code": "800",
+    "name": "Uganda",
+    "iso_code": "UG",
+    "iso3_code": "UGA",
+    "iso_3166_2": "ISO 3166-2:UG",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Eastern Africa",
+    "sub_region_code": "014"
+}, {
+    "code": "804",
+    "name": "Ukraine",
+    "iso_code": "UA",
+    "iso3_code": "UKR",
+    "iso_3166_2": "ISO 3166-2:UA",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Eastern Europe",
+    "sub_region_code": "151"
+}, {
+    "code": "784",
+    "name": "United Arab Emirates",
+    "iso_code": "AE",
+    "iso3_code": "ARE",
+    "iso_3166_2": "ISO 3166-2:AE",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Western Asia",
+    "sub_region_code": "145"
+}, {
+    "code": "826",
+    "name": "United Kingdom",
+    "iso_code": "GB",
+    "iso3_code": "GBR",
+    "iso_3166_2": "ISO 3166-2:GB",
+    "region_name": "Europe",
+    "region_code": "150",
+    "sub_region_name": "Northern Europe",
+    "sub_region_code": "154"
+}, {
+    "code": "840",
+    "name": "United States of America",
+    "iso_code": "US",
+    "iso3_code": "USA",
+    "iso_3166_2": "ISO 3166-2:US",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Northern America",
+    "sub_region_code": "021"
+}, {
+    "code": "858",
+    "name": "Uruguay",
+    "iso_code": "UY",
+    "iso3_code": "URY",
+    "iso_3166_2": "ISO 3166-2:UY",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "South America",
+    "sub_region_code": "005"
+}, {
+    "code": "860",
+    "name": "Uzbekistan",
+    "iso_code": "UZ",
+    "iso3_code": "UZB",
+    "iso_3166_2": "ISO 3166-2:UZ",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Central Asia",
+    "sub_region_code": "143"
+}, {
+    "code": "548",
+    "name": "Vanuatu",
+    "iso_code": "VU",
+    "iso3_code": "VUT",
+    "iso_3166_2": "ISO 3166-2:VU",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Melanesia",
+    "sub_region_code": "054"
+}, {
+    "code": "862",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "iso_code": "VE",
+    "iso3_code": "VEN",
+    "iso_3166_2": "ISO 3166-2:VE",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "South America",
+    "sub_region_code": "005"
+}, {
+    "code": "704",
+    "name": "Viet Nam",
+    "iso_code": "VN",
+    "iso3_code": "VNM",
+    "iso_3166_2": "ISO 3166-2:VN",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "South-Eastern Asia",
+    "sub_region_code": "035"
+}, {
+    "code": "092",
+    "name": "Virgin Islands (British)",
+    "iso_code": "VG",
+    "iso3_code": "VGB",
+    "iso_3166_2": "ISO 3166-2:VG",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "850",
+    "name": "Virgin Islands (U.S.)",
+    "iso_code": "VI",
+    "iso3_code": "VIR",
+    "iso_3166_2": "ISO 3166-2:VI",
+    "region_name": "Americas",
+    "region_code": "019",
+    "sub_region_name": "Caribbean",
+    "sub_region_code": "029"
+}, {
+    "code": "876",
+    "name": "Wallis and Futuna",
+    "iso_code": "WF",
+    "iso3_code": "WLF",
+    "iso_3166_2": "ISO 3166-2:WF",
+    "region_name": "Oceania",
+    "region_code": "009",
+    "sub_region_name": "Polynesia",
+    "sub_region_code": "061"
+}, {
+    "code": "732",
+    "name": "Western Sahara",
+    "iso_code": "EH",
+    "iso3_code": "ESH",
+    "iso_3166_2": "ISO 3166-2:EH",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Northern Africa",
+    "sub_region_code": "015"
+}, {
+    "code": "887",
+    "name": "Yemen",
+    "iso_code": "YE",
+    "iso3_code": "YEM",
+    "iso_3166_2": "ISO 3166-2:YE",
+    "region_name": "Asia",
+    "region_code": "142",
+    "sub_region_name": "Western Asia",
+    "sub_region_code": "145"
+}, {
+    "code": "894",
+    "name": "Zambia",
+    "iso_code": "ZM",
+    "iso3_code": "ZMB",
+    "iso_3166_2": "ISO 3166-2:ZM",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Eastern Africa",
+    "sub_region_code": "014"
+}, {
+    "code": "716",
+    "name": "Zimbabwe",
+    "iso_code": "ZW",
+    "iso3_code": "ZWE",
+    "iso_3166_2": "ISO 3166-2:ZW",
+    "region_name": "Africa",
+    "region_code": "002",
+    "sub_region_name": "Eastern Africa",
+    "sub_region_code": "014"
+}]
