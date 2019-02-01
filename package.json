@@ -1,7 +1,7 @@
 {
   "name": "db",
   "version": "1.0.0",
-  "description": "FourInOne Models package",
+  "description": "Restoraner Models package",
   "main": "index.js",
   "scripts": {
     "migrate": "./node_modules/sequelize-cli/bin/sequelize db:migrate",
@@ -9,7 +9,7 @@
     "seed": "./node_modules/sequelize-cli/bin/sequelize db:seed:all",
     "unseed": "./node_modules/sequelize-cli/bin/sequelize db:seed:undo:all",
     "build": "npm run migrate && npm run seed",
-    "clean": "npm run unmigrate && npm run migrate",
+    "clean": "npm run unmigrate && npm run mi",
     "test": "node_modules/.bin/mocha test/*.js"
   },
   "keywords": [

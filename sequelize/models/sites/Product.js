@@ -1,5 +1,4 @@
 const DataTypes = require('sequelize');
-
 const Schema = {
     'name': {
     	'type': DataTypes.JSON,
